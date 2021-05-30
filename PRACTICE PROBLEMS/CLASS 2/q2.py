@@ -1,3 +1,4 @@
+#PROGRAM TO CHECK WHETHER A NUMBER IS POSITIVE OR NEGATIVE
 def posneg() :
 	x = int(input("ENTER A NUMBER TO PERFORM CHECK : "))
 	if x > 0 :
